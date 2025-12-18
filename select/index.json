@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Teardrop",
+  "base_artist": "Plot Scraps",
+  "createdAt": "2025-12-18T09:57:10.788006Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Before The Next Teardrop Falls - Single Version",
+      "artist": "Freddy Fender",
+      "has_synced": true,
+      "path": "select/01_Before_The_Next_Teardrop_Falls_-_Single_Version_Freddy_Fender.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Before The Next Teardrop Falls (Single Version)",
+      "artist": "Freddy Fender",
+      "has_synced": true,
+      "path": "select/02_Before_The_Next_Teardrop_Falls_(Single_Version)_Freddy_Fender.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Before The Next Teardrop Falls (Single Version)",
+      "artist": "Freddy Fender",
+      "has_synced": true,
+      "path": "select/03_Before_The_Next_Teardrop_Falls_(Single_Version)_Freddy_Fender.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Before the Next Teardrop Falls",
+      "artist": "Freddy Fender",
+      "has_synced": true,
+      "path": "select/04_Before_the_Next_Teardrop_Falls_Freddy_Fender.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Before the Next Teardrop Falls (Album Version)",
+      "artist": "Freddy Fender",
+      "has_synced": true,
+      "path": "select/05_Before_the_Next_Teardrop_Falls_(Album_Version)_Freddy_Fender.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Down To My Last Teardrop",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/06_Down_To_My_Last_Teardrop_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Teardrop",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/07_Teardrop_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Teardrop - Mad Professor Mazaruni Vocal Mix",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/08_Teardrop_-_Mad_Professor_Mazaruni_Vocal_Mix_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Teardrop (Mad Professor Mazaruni Vocal Mix)",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/09_Teardrop_(Mad_Professor_Mazaruni_Vocal_Mix)_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Teardrop - Scream Team Remix",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/10_Teardrop_-_Scream_Team_Remix_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Teardrop (Scream Team Remix)",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/11_Teardrop_(Scream_Team_Remix)_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Teardrop",
+      "artist": "The Naked and Famous",
+      "has_synced": false,
+      "path": "select/12_Teardrop_The_Naked_and_Famous.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "A Teardrop To The Sea",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/13_A_Teardrop_To_The_Sea_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Teardrop",
+      "artist": "The Veronicas",
+      "has_synced": true,
+      "path": "select/14_Teardrop_The_Veronicas.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Teardrop",
+      "artist": "Plot Scraps",
+      "has_synced": false,
+      "path": "select/pl_01_Teardrop_Plot_Scraps.txt"
+    }
+  ]
+}
